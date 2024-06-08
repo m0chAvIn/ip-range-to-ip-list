@@ -7,15 +7,11 @@ Overall, this script streamlines the process of handling IP address ranges, maki
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/m0chAvIn/ip-range-to-ip-list
    ```
-2. Install NPM packages
+2. Run program
    ```sh
-   npm install
-   ```
-3. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
+   python IpRangeToIpList.py
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
