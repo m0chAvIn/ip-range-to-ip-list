@@ -14,5 +14,8 @@ Overall, this script streamlines the process of handling IP address ranges, maki
    python IpRangeToIpList.py
    ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="https://github.com/m0chAvIn/ip-range-to-ip-list">Back to top</a>)</p>
 
+### Built With
+
+<img src="docs/source/mypy_light.svg" alt="mypy logo" width="300px"/>
