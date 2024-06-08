@@ -18,4 +18,4 @@ Overall, this script streamlines the process of handling IP address ranges, maki
 
 ### Built With
 
-<img src="docs/source/mypy_light.svg" alt="mypy logo" width="300px"/>
+<img src="https://www.python.org/static/img/python-logo@2x.png" alt="Python" width="300px"/>
